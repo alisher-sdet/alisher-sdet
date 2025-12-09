@@ -1,103 +1,104 @@
-# 👋 Hi, I'm **Alisher**  
-### **SDET / Automation Engineer — Web, Mobile, and AI-driven Testing**
+# 👋 Hi, I'm **Alisher**
+### **SDET / Automation Engineer — Web, Mobile & AI-driven Testing**
 
-I design and build **engineering-level automation frameworks** — not just tests.  
-My work focuses on **architecture**, **stability**, **scalability**, and **AI-assisted automation**.
+I build **engineering-level automation frameworks** with strong emphasis on  
+**architecture**, **stability**, **scalability**, and **AI-augmented testing**.
 
 ---
 
-## 🔥 What I Do
+## 🚀 About Me
 
-### 🧱 **Automation Architecture**
-- Playwright + POM (clean structure, locator maps, helpers)
-- WebdriverIO + Appium (cross-platform mobile automation)
-- Scalable test design: actions, asserts, fixtures, network filters
-- Stable, deterministic automation for complex UI behaviors
+- 🧱 Designing clean automation architectures (POM, modular helpers, fixtures)  
+- 🌐 Web automation with **Playwright** (deep DOM analysis, stability patterns)  
+- 📱 Mobile automation with **WebdriverIO + Appium** (cross-platform POM)  
+- 🤖 AI-enabled test generation (JSON schema → template → executable tests)  
+- 🧠 R&D: self-healing locators, DOM diffing, automated failure reasoning  
 
-### 🤖 **AI for Test Automation**
-- Natural language → structured JSON → runnable test code  
-- Template generators for Web & Mobile (Mini-Project C)
-- Self-healing locators (DOM diff + AI suggestion)
-- R&D in automated framework refactoring and test synthesis
-
-### 🌐 **Web Automation**
-- Advanced Playwright use:  
-  - robust waits  
-  - custom fixtures  
-  - selective network interception  
-  - DOM analyzers for unstable UI
-
-### 📱 **Mobile Automation**
-- WebdriverIO + Appium  
-- Strategy locators (Android/iOS)  
-- Cross-platform POM & unified test logic  
+My focus:  
+**build frameworks that help teams scale, not just write tests.**
 
 ---
 
 ## 🧠 Tech Stack
 
-**Languages:**  
-JavaScript, TypeScript, Python
+**Languages**  
+- JavaScript / TypeScript  
+- Python  
 
-**Automation:**  
-Playwright, WebdriverIO, Appium, REST APIs, Mocking
+**Automation Frameworks**  
+- Playwright  
+- WebdriverIO  
+- Appium  
+- REST API testing  
 
-**Architecture:**  
-POM, clean test design, helpers layers, fixtures, DI-lite patterns
+**Architecture & Testing Principles**  
+- Page Object Model  
+- Deterministic waits  
+- Locator strategies  
+- Helpers & layer separation (actions, asserts, fixtures)  
+- Network interception / mocking  
+- Error diagnostics & stability engineering  
 
-**Infrastructure / DevOps:**  
-GitHub Actions, CI/CD, Docker, Allure, HTML reporters
+**AI & Tooling**  
+- OpenAI SDK  
+- Agent-based workflows  
+- Natural-language test generation  
+- Intelligent refactoring tools  
 
-**AI:**  
-OpenAI SDK, test generation, intelligent automation tools
+**DevOps / Infrastructure**  
+- GitHub Actions  
+- Docker  
+- CI/CD  
+- Test reporting (HTML, Allure)  
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
 
-### **1. Playwright SwagLabs POM**  
-A production-level Playwright framework with:
-- Clean POM architecture  
-- Locator maps (`src/locators`)  
+### ⭐ **Playwright SwagLabs POM**
+A production-style Web automation framework:
+- Clean POM structure with locator maps  
 - Stable helpers (`actions`, `asserts`)  
-- Network filtering for flaky analytics requests  
-- Intelligent `expectLoaded()` page contracts  
-- AI-friendly structure for test generation  
-  
-📌 Repo: https://github.com/alisher-sdet/playwright-swaglabs-pom
+- Robust network filtering for flaky analytics  
+- Custom `expectLoaded()` page contracts  
+- AI-friendly architecture for test generation  
+
+📌 Repo → https://github.com/alisher-sdet/playwright-swaglabs-pom
 
 ---
 
-### **2. AI Agents (Test Automation R&D)**  
-Framework for integrating LLM agents into automation pipelines:
-- Sequential user simulation  
-- Multi-step test orchestration  
-- Automated error diagnosis  
-- DOM-based reasoning  
-📌 Repo: https://github.com/alisher-sdet/ai_ag
+### 🤖 **AI-Driven Test Agents (R&D)**
+Framework for AI-augmented test execution:
+- Multi-step user simulation  
+- Automated DOM analysis  
+- Failure reasoning & diagnosis  
+- Controlled JSON schema for stable test generation  
+
+📌 Repo → https://github.com/alisher-sdet/ai_ag
 
 ---
 
-### **3. Mobile Automation (Appium + WDIO)**  
-*(Coming in Week 2)*  
-- Android & iOS unified POM  
-- Strategy locators  
-- Stable real-device/emulator scripts  
-- App-level R&D (gesture stability, element resolution)
+### 📱 **Mobile Automation Framework (WebdriverIO + Appium)**  
+Cross-platform automation design:
+- Strategy locators (Android/iOS)  
+- Unified mobile POM  
+- Emulator/device configuration  
+- Touch actions, gestures, synchronization  
+
+*(Updated during Week 2 of training)*
+
+📌 Repo → https://github.com/alisher-sdet/ui_m_wd
 
 ---
 
-### **4. AI Test Generator Layer**  
-*(Coming in Month 2)*  
-- Natural Language → JSON schema → test template  
-- Multi-framework generation (Playwright / WebdriverIO)  
-- Modular templates for Web/Mobile  
-- Self-healing of broken tests via AI patch proposals  
+### 🧪 **AI Test Generator Layer (Coming soon)**  
+- Natural language → structured JSON → runnable tests  
+- Template engine for Web & Mobile frameworks  
+- Self-healing locator proposals  
+- CLI for generating scenario-based tests  
 
 ---
 
 ## 📬 Contact  
-If you're working on automation frameworks, AI-driven testing, or building scalable test platforms — I'm always open to collaboration.
-
----
+If you're building automation frameworks or exploring AI-driven testing — feel free to connect.
 
