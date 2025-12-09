@@ -22,7 +22,7 @@ My focus:
 ## 🧠 Tech Stack
 
 **Languages**  
-- JavaScript / TypeScript  
+- JavaScript  
 - Python  
 
 **Automation Frameworks**  
@@ -47,7 +47,6 @@ My focus:
 
 **DevOps / Infrastructure**  
 - GitHub Actions  
-- Docker  
 - CI/CD  
 - Test reporting (HTML, Allure)  
 
@@ -87,7 +86,7 @@ Cross-platform automation design:
 
 *(Updated during Week 2 of training)*
 
-📌 Repo → https://github.com/alisher-sdet/ui_m_wd
+📌 Repo → https://github.com/alisher-sdet/wdio-appium-demo
 
 ---
 
